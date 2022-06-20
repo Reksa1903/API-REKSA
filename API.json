@@ -1,0 +1,9 @@
+{
+    "title": "Motivasi untuk tetap bernapas",
+    "description": "Lagi capek....gass baca ini",
+    "movies": [
+      { "id": "1", "title": "Awali Bismillah agar berakhir Alhamdullilah." },
+      { "id": "2", "title": "Ibu mengajarkan semuanya, kecuali untuk hidup tanpanya." },
+      { "id": "3", "title": "ibu adalah malaikat yang dikirim oleh Tuhan langsung untuk kita." }
+    ]
+  }
